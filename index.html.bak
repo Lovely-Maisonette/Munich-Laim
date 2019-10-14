@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta name="google-site-verification" content="Df-P-YMOE95ip_kHLR-xseE9S3R6lahflG7Fo54ngxc" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="ℒᴏᴠᴇʟy ℳᴀɪꜱᴏɴᴇᴛᴛᴇ, Munich">
+  <meta name="author" content="ℒᴏᴠᴇʟy ℳᴀɪꜱᴏɴᴇᴛᴛᴇ, Munich">
+
+  <title>ℒᴏᴠᴇʟy ℳᴀɪꜱᴏɴᴇᴛᴛᴇ, Munich - 003430195e276824a64f20d6884e245091560af9</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+
+  <!-- Custom styles for this template -->
+  <link href="css/coming-soon.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="overlay"></div>
+  <!-- video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" -->
+  <video autoplay loop muted playsinline>
+    <source src="mp4/bg.mp4" type="video/mp4">
+  </video>
+
+  <div class="masthead">
+    <div class="masthead-bg"></div>
+    <div class="container h-500">
+      <div class="row h-500">
+        <div class="col-12 my-auto">
+          <div class="masthead-content text-white py-5 py-md-0">
+            <br />
+            <h1 class="mb-3">ℒᴏᴠᴇʟy&nbsp;ℳᴀɪꜱᴏɴᴇᴛᴛᴇ</h1>
+            <h2 class="mb-3">For the Munich Oktoberfest,</h2>
+            <p class="mb-3">...and the whole year. Up to 8 people and two bedrooms.
+	    <strong><A HREF="https://wa.me/4915252133546?text=I%27m%20interested%20in%20the%20Lovely%20Maisonette">Contact us via WhatsApp the best price</strong>!</A>
+For pictures and descriptions, follow the images below.</p>
+	    <table>
+	    <tr>
+	    <td><p class="mb-3" align=center><strong>ℒᴏᴠᴇʟy ℳᴀɪꜱᴏɴᴇᴛᴛᴇ #1</strong></td>
+	    <td><p class="mb-3" align=center><strong>ℒᴏᴠᴇʟy ℳᴀɪꜱᴏɴᴇᴛᴛᴇ #2</strong></td>
+	    </tr>
+	    <tr>
+	    <td align=center>
+	    <a taret=_blank href=https://airbnb.com/h/lovely-maisonette-central-near-oktoberfest-1>
+            <img width=80% src=https://a0.muscache.com/im/pictures/8b5adf94-d314-427d-9f46-a10e472ab1a0.jpg><a/></td>
+	    <td align=center>
+	    <a target=_blank href=https://airbnb.com/h/lovely-maisonette-central-near-oktoberfest-2>
+            <img width=80% src=https://a0.muscache.com/im/pictures/8b5adf94-d314-427d-9f46-a10e472ab1a0.jpg><a/></td></tr>
+	    </table>
+	    <p class="mb-3" align=center>
+	    <p class="mb-3" align=center><i class="far fa-copyright"></i>ℒᴏᴠᴇʟy ℳᴀɪꜱᴏɴᴇᴛᴛᴇ, Munich.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="social-icons">
+    <ul class="list-unstyled text-center mb-0">
+      <li class="list-unstyled-item">
+        <a target=_blank href="https://wa.me/4915252133546?text=I'm%20interested%20in%20the%20Lovely%20Maisonette">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+      <li class="list-unstyled-item">
+        <a target=_blank href="mailto:Lovely.Maisonette@sinderman.com">
+	  <i class="fas fa-at"></i>
+        </a>
+      </li>
+      <li class="list-unstyled-item">
+        <a target=_blank href="https://www.airbnb.com/users/show/38321488">
+          <i class="fab fa-airbnb"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/coming-soon.min.js"></script>
+
+</body>
+
+</html>

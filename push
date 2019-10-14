@@ -1,1 +1,3 @@
+date="<!-- $(date) -->" >> index.html
+sed -e '$s/.*/'$date'/'
 git add .; git commit -am "autopush"; git push
